@@ -1,6 +1,5 @@
 
-![icegif-375](https://github.com/cablekiddo/cablekiddo/assets/89358737/e842967e-8fa1-4347-a570-92bb11886aaf)
-
+![wordart](https://github.com/cablekiddo/cablekiddo/assets/89358737/36738a4a-0a0d-4765-b14e-11504a0d790d)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cablekiddo&hide_progress=true)
 
